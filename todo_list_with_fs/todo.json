@@ -1,0 +1,17 @@
+{
+    "Create PHP Crash course": {
+        "completed": false
+    },
+    "Buy webcam": {
+        "completed": true
+    },
+    "One more todo": {
+        "completed": false
+    },
+    "Take a walk": {
+        "completed": false
+    },
+    "Watch PHP course": {
+        "completed": true
+    }
+}
